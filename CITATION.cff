@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: If you use this fork, please cite it using these metadata and identify the
+  commit or release used. Upstream attribution is recorded in references.
+title: Awesome Agent Skills
+authors:
+- name: VoltAgent
+- name: Awesome Agent Skills contributors
+repository-code: https://github.com/edithatogo/awesome-agent-skills
+url: https://github.com/edithatogo/awesome-agent-skills
+preferred-citation:
+  type: generic
+  title: Awesome Agent Skills
+  authors:
+  - name: VoltAgent
+  - name: Awesome Agent Skills contributors
+  url: https://github.com/edithatogo/awesome-agent-skills
+references:
+- type: generic
+  title: Awesome Agent Skills
+  authors:
+  - name: VoltAgent
+  - name: Awesome Agent Skills contributors
+  repository-code: https://github.com/VoltAgent/awesome-agent-skills
+  url: https://github.com/VoltAgent/awesome-agent-skills
